@@ -157,10 +157,10 @@ header {
       padding: 10%;
       margin: 10px; 
       background-color: rgb(255, 255, 255);
-      transition: all 2s;
+      transition: all 1s;
     }
     .producto__columna:hover{
-    transform: scale(1.3);
+    transform: scale(1.2);
 
     }
 
